@@ -1,8 +1,8 @@
-# Getting Started with Microsoft 365
+# Build AI Solutions with Microsoft Technologies
 
-On March 7th, 2023, the "Getting Started with Microsoft 365" session brought together students from the NIBM Kurunegala branch for a hands-on experience with usage of Microsoft 365 services and apps by providing instructions for setting up their university-issued Microsoft 365 account.
+On May 13th, 2024, the "Build AI Solutions with Microsoft Technologies" session brought together students from the NIBM Kurunegala branch for a hands-on experience with Azure AI Services and Developer Tools.
 
-#MSFTStudentAmbassadors #MLSA #Microsoft365 #MicrosoftLearn #Beginner #Microsoft365forStudents #NIBMCS #NIBM  
+#MSFTStudentAmbassadors #MLSA #Microsoft365 #MicrosoftLearn #Beginner #Microsoft365forStudents #NIBM  
 
 ## Event Post
 
@@ -95,15 +95,19 @@ Download PDF - [01 - Build AI Solutions with Microsoft Technologies, 13.05.2024 
   </tr>
   <tr>
     <td>Event URL</td>
-    <td>https://github.com/dileepabandara/mlsa-logbook/tree/main/Events/02%20-%20Getting%20Started%20with%20Microsoft%20365%2C%2007.03.2023%20(In-Person)</td>
+    <td>
+        <a href="https://github.com/YuKiFdo/mlsa-logbook/tree/live/Events/01%20-%20Build%20AI%20Solutions%20with%20Microsoft%20Technologies%2C%2013%2C05%2C2024%20(In-Person)">Event - MVP Website</a>
+    </td>
   </tr>
   <tr>
     <td>Reach</td>
-    <td>70</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>Photos/Recording URL</td>
-    <td>https://stdntpartners-my.sharepoint.com/:f:/g/personal/dileepa_bandara_studentambassadors_com/EofCyWLqbe5FhDshEwKnt9ABproEWkWnXMfafx6R1_x8GQ?e=PD5dTS</td>
+    <td>
+        <a href="https://stdntpartners-my.sharepoint.com/personal/shehal_herath_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fshehal%5Fherath%5Fstudentambassadors%5Fcom%2FDocuments%2FMLSA%20Journy%2FEvents%2F01%20%2D%20Build%20AI%20Solutions%20with%20Microsoft%20Technologies%2C%2013%2C05%2C2024%20%28In%2DPerson%29%2FPhotos&ga=1">Event Album</a>
+    </td>
   </tr>
   <tr>
     <td>Acquired Skills</td>
