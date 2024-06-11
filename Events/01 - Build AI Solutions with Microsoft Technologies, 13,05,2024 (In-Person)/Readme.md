@@ -6,10 +6,10 @@ On May 13th, 2024, the "Build AI Solutions with Microsoft Technologies" session 
 
 ## Event Post
 
-<img src="https://cdn.discordapp.com/attachments/1193488623505522709/1239820607768629268/BUILD_AI_Solutions_19.png?ex=6644506b&is=6642feeb&hm=2fa8becf498e4d93cf95a7175c68f05f3409b31bc2a74675fd255b6583813e1b&" width=60%>
+<a href="https://ibb.co/gRFj80P"><img src="https://i.ibb.co/vjvwWNQ/Final-Build-AI-Solutions-Banner.png" alt="Final-Build-AI-Solutions-Banner" border="0" width="60%"></a>
 
 ## Event Profile
-Link - 
+[Event - MVP Website](https://mvp.microsoft.com/en-US/events/35391)
 
 ## Event Notes
 Download PDF - [01 - Build AI Solutions with Microsoft Technologies, 13.05.2024 (In-Person).pdf](https://stdntpartners-my.sharepoint.com/:b:/g/personal/shehal_herath_studentambassadors_com/EXBRcnOV1_FAi0oB-CNFNA4B-AMxgWT3iZa_-MJICIKJYw?e=BzMdjo) 
@@ -96,7 +96,7 @@ Download PDF - [01 - Build AI Solutions with Microsoft Technologies, 13.05.2024 
   <tr>
     <td>Event URL</td>
     <td>
-        <a href="https://github.com/YuKiFdo/mlsa-logbook/tree/live/Events/01%20-%20Build%20AI%20Solutions%20with%20Microsoft%20Technologies%2C%2013%2C05%2C2024%20(In-Person)">Event - MVP Website</a>
+        <a href="https://mvp.microsoft.com/en-US/events/35391">Event - MVP Website</a>
     </td>
   </tr>
   <tr>
